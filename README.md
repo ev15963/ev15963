@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/SpringDataJpa-6DB33F?style=for-the-badge&logo=&logoColor=white)
+![JPA](https://img.shields.io/badge/Spring%20Data%20Jpa-6DB33F?style=for-the-badge&logo=&logoColor=white)
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 GORM
